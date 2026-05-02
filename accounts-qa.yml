@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+# Custom application properties
+accounts:
+  message: "Welcome to QA Accounts Service API's testing environment"
+  contactDetails:
+    name: "Surya Kumar"
+    email: "HqFg2@example.com"
+  onCallSupport:
+    - "+1-234-987-6543"

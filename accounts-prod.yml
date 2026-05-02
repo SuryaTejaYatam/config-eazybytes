@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+# Custom application properties
+accounts:
+  message: "Welcome to Prod Accounts Service API's environment"
+  contactDetails:
+    name: "Harry Potter"
+    email: "gBb0X@example.com"
+  onCallSupport:
+    - "+1-234-987-6543"

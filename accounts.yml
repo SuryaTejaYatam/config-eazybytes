@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+# Custom application properties
+accounts:
+  message: "Welcome to Accounts Service local API's environment"
+  contactDetails:
+    name: "John Doe"
+    email: "GtY8l@example.com"
+  onCallSupport:
+    - "+1-555-987-6543"
