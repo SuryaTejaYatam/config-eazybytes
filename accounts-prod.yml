@@ -7,6 +7,6 @@ accounts:
   message: "Welcome to Prod Accounts Service API's environment"
   contactDetails:
     name: "Harry Potter"
-    email: "gBb0X@example.com"
+    email: "{cipher}2e03d937750ebf9400cab86bf500115e034c6d0e30881e94aad3eb81519008fe03ae5393d9876245d5c8b660e9f9a0f1"
   onCallSupport:
     - "+1-234-987-6543"
